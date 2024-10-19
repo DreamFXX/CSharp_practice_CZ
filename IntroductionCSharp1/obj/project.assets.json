@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\CSharp_practice\\IntroductionCSharp1\\IntroductionCSharp1.csproj",
-      "projectName": "IntroductionCSharp1",
-      "projectPath": "C:\\Users\\marti\\CSharp_practice\\IntroductionCSharp1\\IntroductionCSharp1.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\CSharp_practice\\IntroductionCSharp1\\IntroductionCSharp01.csproj",
+      "projectName": "IntroductionCSharp01",
+      "projectPath": "C:\\Users\\marti\\CSharp_practice\\IntroductionCSharp1\\IntroductionCSharp01.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marti\\CSharp_practice\\IntroductionCSharp1\\obj\\",
       "projectStyle": "PackageReference",

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("IntroductionCSharp1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("IntroductionCSharp01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+572243d6ac45680a9e13d9bbd4bfe6d50064709f")]
-[assembly: System.Reflection.AssemblyProductAttribute("IntroductionCSharp1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("IntroductionCSharp1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a9293e31c2927c4a12b34ffcbdb00673dc6aab")]
+[assembly: System.Reflection.AssemblyProductAttribute("IntroductionCSharp01")]
+[assembly: System.Reflection.AssemblyTitleAttribute("IntroductionCSharp01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
