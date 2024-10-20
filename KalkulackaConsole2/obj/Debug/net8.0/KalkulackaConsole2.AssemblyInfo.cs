@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KalkulackaConsole2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ec62efd20a02a3227f04697016abf41a7d1b092")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60bf80d4b8aa10c2101dcfb7c2e62667aa79cf46")]
 [assembly: System.Reflection.AssemblyProductAttribute("KalkulackaConsole2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KalkulackaConsole2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
