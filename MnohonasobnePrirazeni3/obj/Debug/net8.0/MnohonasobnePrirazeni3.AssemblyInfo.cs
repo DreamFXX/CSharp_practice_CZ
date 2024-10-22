@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("KalkulackaConsole2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MnohonasobnePrirazeni3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a631c22d56b6b4ee73dc11ee332b88c67877606")]
-[assembly: System.Reflection.AssemblyProductAttribute("KalkulackaConsole2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("KalkulackaConsole2")]
+[assembly: System.Reflection.AssemblyProductAttribute("MnohonasobnePrirazeni3")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MnohonasobnePrirazeni3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
