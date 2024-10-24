@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpgradedCalc4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+447da1f9aa388f25a3c7d11d0c8fe6ecbc45188a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c42cb22810c58fa518b6e8a0b7a414d59af2949")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpgradedCalc4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpgradedCalc4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

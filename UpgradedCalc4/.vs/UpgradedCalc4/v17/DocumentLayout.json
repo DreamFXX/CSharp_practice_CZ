@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpgradedCalc4",
+              "Title": "UpgradedCalc4.csproj",
               "DocumentMoniker": "C:\\Users\\marti\\CSharp_practice\\UpgradedCalc4\\UpgradedCalc4.csproj",
               "RelativeDocumentMoniker": "UpgradedCalc4.csproj",
               "ToolTip": "C:\\Users\\marti\\CSharp_practice\\UpgradedCalc4\\UpgradedCalc4.csproj",
               "RelativeToolTip": "UpgradedCalc4.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T13:57:54.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T13:57:54.733Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\marti\\CSharp_practice\\UpgradedCalc4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T13:33:10.371Z",
               "EditorCaption": ""
