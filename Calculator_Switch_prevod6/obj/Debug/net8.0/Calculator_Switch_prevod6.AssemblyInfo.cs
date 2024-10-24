@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LogickeOperatory5")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Calculator_Switch_prevod6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ec97b9785fe05c8d5dbd05448ce0d590520b392")]
-[assembly: System.Reflection.AssemblyProductAttribute("LogickeOperatory5")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LogickeOperatory5")]
+[assembly: System.Reflection.AssemblyProductAttribute("Calculator_Switch_prevod6")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Calculator_Switch_prevod6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
