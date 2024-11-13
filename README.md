@@ -1,1 +1,1 @@
-Here, you can find my Projects as im learning C# language and git commands.
+My practicing folder and absolutely first things i made with C#
